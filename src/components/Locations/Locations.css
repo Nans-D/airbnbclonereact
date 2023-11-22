@@ -1,0 +1,22 @@
+.section-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 10em 4em;
+}
+
+.item-container {
+  position: relative;
+}
+
+.heart-favori {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  width: 24px;
+}
+.photo-location {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
